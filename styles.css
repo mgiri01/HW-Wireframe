@@ -1,6 +1,5 @@
-/**
- * Float Layout Activity
- **/
+
+ 
 
 * {
   box-sizing: border-box;
@@ -91,5 +90,5 @@ nav {
 footer {
   padding: 20px;
   clear: both;
-  background:#eee;
+  background:#ebebeb;
 }
